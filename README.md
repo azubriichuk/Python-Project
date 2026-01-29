@@ -8,7 +8,7 @@ This project is an **end-to-end data analytics pipeline** designed to analyze 3 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Data Extraction:** Google BigQuery (SQL)
 * **Data Cleaning & Analysis:** Python (Pandas, NumPy)
 * **Statistical Hypothesis Testing:** Scipy (Mann-Whitney U, Kruskal-Wallis, Chi-Square, Pearson Correlation)
